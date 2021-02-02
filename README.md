@@ -1,6 +1,6 @@
 # mangabz_downloader
 ###这个脚本是用来下载漫画看的
-
+ 
 #配置文件config.json说明
 >url 是http://mangabz.com网站给漫画的分配的链接接地址的标记部分。如 鬼滅之刃 的连接地址为http://mangabz.com/73bz/，则url就是 73bz
 
